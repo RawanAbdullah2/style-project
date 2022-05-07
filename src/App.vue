@@ -1,5 +1,6 @@
 <template>
   <Navigation />
+
   <div>
     <router-view> </router-view>
   </div>
